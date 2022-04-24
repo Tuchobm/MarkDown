@@ -194,7 +194,7 @@ Ejemplo:
 
     ![Texto alternativo](/ruta/a/la/imagen.jpg "Título alternativo")
     
-![Logo de MarkDown](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-library.com%2Ficon%2Fmarkdown-icon-22.html&psig=AOvVaw17fKxd6wU2FlSsd8LXEjNy&ust=1650848176997000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLiboe6-q_cCFQAAAAAdAAAAABAV "MarkDown LOGO")
+![Logo de MarkDown](https://icon-library.com/images/markdown-icon/markdown-icon-24.jpg "MarkDown LOGO")
     
 # Elementos varios
 # Links automaticos
